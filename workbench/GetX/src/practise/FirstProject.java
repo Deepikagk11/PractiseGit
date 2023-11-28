@@ -6,6 +6,7 @@ public class FirstProject {
 		
 		System.out.println("deepika");
 		System.out.println("deepu");
+		System.out.println("new message added");
 
 	}
 
